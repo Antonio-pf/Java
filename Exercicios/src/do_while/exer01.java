@@ -1,3 +1,5 @@
+package do_while;
+
 import java.util.Scanner;
 
 public class exer01 {
@@ -19,7 +21,6 @@ public class exer01 {
             }
 
         }while (!condicao);
-
 
     }
 }

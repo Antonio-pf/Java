@@ -1,3 +1,5 @@
+package strings;
+
 public class length {
 
     public static void main(String[] args) {

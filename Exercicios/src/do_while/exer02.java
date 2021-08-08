@@ -1,3 +1,5 @@
+package do_while;
+
 import java.util.Scanner;
 
 public class exer02 {
