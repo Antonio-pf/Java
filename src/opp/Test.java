@@ -13,8 +13,9 @@ public class Test {
             System.out.printf("\n"+palavraNew);
 
         }
-        for(int i = palavra.length()-1; i >=0; i--){
-            System.out.printf(palavra);
+        for(int i = palavra.length()-1 ; i < 0 ; i--){
+            System.out.println("\n" + palavra.charAt(i));
+
 
         }
 
