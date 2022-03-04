@@ -13,11 +13,16 @@ public class Test {
             System.out.printf("\n"+palavraNew);
 
         }
-        for(int i = palavra.length()-1; i <= 6; i--){
+        for(int i = palavra.length()-1; i >=0; i--){
+            System.out.printf(palavra);
+
+        }
+
+        /*for(int i = palavra.length()-1; i <= 6; i--){
             palavraNew2 = palavraNew2 + palavra.charAt(i);
             System.out.printf("\n"+palavraNew2);
 
-        }
+        }*/
         //[a][m][o][r]
         // 0  1  2  3
     }
