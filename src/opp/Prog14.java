@@ -9,6 +9,7 @@ public class Prog14 {
         int valor1 = 0, valor2 = 0;
         String continua = "sim";
 
+        //implementar do
         while (continua.equalsIgnoreCase(
                 "sim")) {
             //equals = confirma para o java o que o tipo é string
