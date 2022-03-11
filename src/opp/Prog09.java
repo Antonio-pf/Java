@@ -9,6 +9,7 @@ public class Prog09 {
 
         //retorna dia da semama
         String escolhaDia = "";
+        String msg = "";
         int diaConvertido = 0;
 
         Scanner scan = new Scanner(System.in);
@@ -22,26 +23,27 @@ public class Prog09 {
                     JOptionPane.showMessageDialog(null, "Domingo");
                     break;
                 case 1:
-                    JOptionPane.showMessageDialog(null, "Segunda");
+                    msg = "Domingo";
                     break;
                 case 2:
-                    JOptionPane.showMessageDialog(null, "Terça");
+                    msg = "Terça";
                     break;
                 case 3:
-                    JOptionPane.showMessageDialog(null, "Quarta");
+                    msg = "Quarta";
                 case 4:
-                    JOptionPane.showMessageDialog(null, "Quinta");
+                    msg = "Quinta";
                     break;
                 case 5:
-                    JOptionPane.showMessageDialog(null, "Sexta");
+                    msg = "Sexta";
                     break;
                 case 6:
-                    JOptionPane.showMessageDialog(null, "Sábado");
+                    msg = "Sábado";
                     break;
                 default:
                     JOptionPane.showMessageDialog(null, "Digite um valor válido!!");
                     break;
             }
+            JOptionPane.showMessageDialog(null, msg);
         } while (diaConvertido != 0);
 
     }

@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea0e0a73-d5a7-4a07-bd22-a54ad3fe34e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/opp/Prog01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opp/Prog05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opp/Prog07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opp/Prog09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/opp/Prog10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/Prog09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/opp/Prog09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
