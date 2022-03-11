@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea0e0a73-d5a7-4a07-bd22-a54ad3fe34e4" name="Changes" comment="" />
+    <list default="true" id="ea0e0a73-d5a7-4a07-bd22-a54ad3fe34e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/opp/Prog01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opp/Prog05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opp/Prog07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opp/Prog09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opp/Prog10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,20 +53,7 @@
       <recent name="C:\Users\2840482211003\Desktop\Repositorio\Java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Prog08">
-    <configuration name="Prog05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opp.Prog05" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="opp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Prog09">
     <configuration name="Prog06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="opp.Prog06" />
       <module name="Java" />
@@ -99,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Prog09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opp.Prog09" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="opp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="opp.Test" />
       <module name="Java" />
@@ -121,18 +128,18 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Prog05" />
       <item itemvalue="Application.Prog06" />
       <item itemvalue="Application.Prog07" />
       <item itemvalue="Application.Prog08" />
+      <item itemvalue="Application.Prog09" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prog09" />
         <item itemvalue="Application.Prog08" />
         <item itemvalue="Application.Prog07" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Prog06" />
-        <item itemvalue="Application.Prog05" />
       </list>
     </recent_temporary>
   </component>
