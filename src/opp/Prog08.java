@@ -1,5 +1,5 @@
 package opp;
-import javax.swing.*;
+    import javax.swing.*;
 
 public class Prog08 {
 
