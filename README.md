@@ -12,11 +12,13 @@
 <ul>
 <li>Condicionais</li>
 <li>Laços de repetição</li>
-<li>Orientação Objetos</li>
-<li>Ponteiros</li></p>
+<li>Sub-rotinas</li>
+<li>Classes</li>
+<li>Orientação Objetos</li></p>
 </ul>
 
 <h2>🚀 Pré-requisitos</h2>
+JDK instalado na máquina e uma IDE com uma maior afinidade.
 
 <h4 align="center"> 
 	🚧  Java em construção...  🚧

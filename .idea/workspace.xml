@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea0e0a73-d5a7-4a07-bd22-a54ad3fe34e4" name="Changes" comment="" />
+    <list default="true" id="ea0e0a73-d5a7-4a07-bd22-a54ad3fe34e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/opp/Prog01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/opp/Prog05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/opp/Prog06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/opp/Prog07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/opp/Prog08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/opp/Prog09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/opp/Prog10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/opp/Prog10.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -46,7 +58,33 @@
       <recent name="C:\Users\2840482211003\Desktop\Repositorio\Java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Home5">
+  <component name="RunManager" selected="Application.Extra5">
+    <configuration name="Extra4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sub_rotinas.Extra4" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sub_rotinas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Extra5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sub_rotinas.Extra5" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sub_rotinas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Home5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Home5" />
       <module name="Java" />
@@ -54,51 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prog07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opp.Prog07" />
+    <configuration name="Home6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Home6" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Prog12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opp.Prog12" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="opp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Prog14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opp.Prog14" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="opp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opp.Test" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="opp.*" />
+          <option name="PATTERN" value="homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,21 +111,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="do_while.exer01" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="do_while.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Prog07" />
-      <item itemvalue="Application.Prog12" />
-      <item itemvalue="Application.Prog14" />
       <item itemvalue="Application.Home5" />
+      <item itemvalue="Application.exer01" />
+      <item itemvalue="Application.Home6" />
+      <item itemvalue="Application.Extra4" />
+      <item itemvalue="Application.Extra5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Extra5" />
+        <item itemvalue="Application.Extra4" />
+        <item itemvalue="Application.Home6" />
+        <item itemvalue="Application.exer01" />
         <item itemvalue="Application.Home5" />
-        <item itemvalue="Application.Prog14" />
-        <item itemvalue="Application.Prog12" />
-        <item itemvalue="Application.Prog07" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
